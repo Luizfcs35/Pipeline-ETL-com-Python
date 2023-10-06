@@ -21,5 +21,3 @@ O objetivo principal é ressaltar a importancia em manter uma boa estratégia fi
 ## Conclusão
 
 A importância em manter um sistema de informações ricas e inteligentes de maneira dinâmica usando a `IA`, explorando diversas formas neste contexto, Traz uma imensa idéia de possiblidades e desafios na **Ciencia de Dados.**
-
-openai_api_key = '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'
